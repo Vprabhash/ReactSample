@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Fonts.js",
+      "sha1": "19bc8ea99066b21b00f62c9fc8c0b0ca4a1b88e1"
+    },
+    {
+      "path": "src/assets/fonts/FontsFree-Net-SF-Pro-Rounded-Bold.ttf",
+      "sha1": "ff61a8eb119864c0800f424fa3223aa815426523"
+    },
+    {
+      "path": "src/assets/fonts/FontsFree-Net-SF-Pro-Rounded-Medium.ttf",
+      "sha1": "828f7c11634174da37d94f57334989905f6e1f74"
+    },
+    {
+      "path": "src/assets/fonts/FontsFree-Net-SF-Pro-Rounded-Regular.ttf",
+      "sha1": "f2060ab5a5d6140c103bf47616f882ae62539cf2"
+    },
+    {
+      "path": "src/assets/fonts/FontsFree-Net-SF-Pro-Rounded-Semibold.ttf",
+      "sha1": "543ab6e5c840d17d63bfc8eb4233c05a049b683e"
+    },
+    {
+      "path": "src/assets/fonts/FontsFree-Net-SF-Pro-Rounded-Thin.ttf",
+      "sha1": "cd689cde14e0d94c025ca9415f03cccd28ec25f0"
+    }
+  ]
+}
